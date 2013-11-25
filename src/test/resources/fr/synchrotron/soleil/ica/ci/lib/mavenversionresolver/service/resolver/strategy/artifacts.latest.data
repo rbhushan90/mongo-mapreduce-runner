@@ -1,0 +1,3 @@
+{"_id" : { "org" : "testGroupId", "name" : "testArtifactId", "type" : "binary", "status" : "BUILT"},"value" : "1.5.DEV-SNAPSHOT"}
+{"_id" : { "org" : "testGroupId", "name" : "testArtifactId", "type" : "binary", "status" : "DELIVERED_INTEGRATION"},"value" : "1.5.INTEGRATION"}
+{"_id" : { "org" : "testGroupId", "name" : "testArtifactId", "type" : "binary", "status" : "DELIVERED_RELEASE"},"value" : "1.5.RELEASE"}
